@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "VirtualBooter",
-    "currentPage": "Stresser-Premium+.html",
+    "currentPage": "Server-Info.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2526,7 +2526,7 @@
         }
       ]
     },
-    "page5.html": {
+    "Server-Info.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Server Info | VirtualBooter",
