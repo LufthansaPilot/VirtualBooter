@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "VirtualBooter",
-    "currentPage": "Home.html",
+    "currentPage": "Stresser.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
     "Home.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Home | VirtualBooter",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -534,10 +534,10 @@
         }
       ]
     },
-    "page1.html": {
+    "Stresser.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
-        "title": "Stresser",
+        "meta_descr": "",
+        "title": "Stresser | VirtualStresser",
         "order": 1
       },
       "components": []
