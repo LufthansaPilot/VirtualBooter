@@ -1435,10 +1435,96 @@ body {
 .cid-qUjB5lGfYq .card {
   padding-bottom: 1.5rem;
 }
+.cid-qUvtdxRGVV {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #cccccc;
+}
+.cid-qUvtdxRGVV .progress {
+  width: 100%;
+}
+.cid-qUvtdxRGVV progress {
+  height: 8px;
+}
+.cid-qUvtdxRGVV h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qUvtdxRGVV .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qUvtdxRGVV .progress_value {
+  position: relative;
+}
+.cid-qUvtdxRGVV .progress_elements {
+  margin: 0 auto;
+}
+.cid-qUvtdxRGVV .title-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-qUvtdxRGVV .progress1 .progressbar-number:before,
+.cid-qUvtdxRGVV .progress2 .progressbar-number:before,
+.cid-qUvtdxRGVV .progress3 .progressbar-number:before,
+.cid-qUvtdxRGVV .progress4 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
+}
+.cid-qUvtdxRGVV progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-qUvtdxRGVV progress::-webkit-progress-value {
+  background: #149dcc;
+}
+.cid-qUvtdxRGVV progress[value]::-moz-progress-bar {
+  background: #149dcc;
+}
+.cid-qUvtdxRGVV progress::-ms-fill {
+  background: #149dcc;
+}
+.cid-qUvtdxRGVV .progress1 .progressbar-number:before {
+  content: '90';
+}
+.cid-qUvtdxRGVV .progress2 .progressbar-number:before {
+  content: '100';
+}
+.cid-qUvtdxRGVV .progress3 .progressbar-number:before {
+  content: '100';
+}
+.cid-qUvtdxRGVV .progress4 .progressbar-number:before {
+  content: '100';
+}
+.cid-qUvtdxRGVV .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-qUvtdxRGVV .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-qUvtdxRGVV .progress_value span {
+  padding-left: 30px;
+}
+.cid-qUvu7xcmHQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #f4a997, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-qUvu7xcmHQ .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qUvu7xcmHQ .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-qUpvqf3iDu {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #c1c1c1;
+  background-color: #cccccc;
 }
 .cid-qUpvqf3iDu .carousel-item {
   justify-content: center;
