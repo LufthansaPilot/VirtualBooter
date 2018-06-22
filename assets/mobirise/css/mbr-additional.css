@@ -1521,6 +1521,108 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-qVJnjNegto {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #cccccc;
+}
+.cid-qVJnjNegto .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qVJnjNegto .formoid {
+  margin: auto;
+}
+.cid-qVJnjNegto .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-qVJnjNegto a.btn {
+  flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+}
+.cid-qVJnjNegto .input-group-btn {
+  align-self: center;
+  -webkit-align-self: center;
+  z-index: 3;
+}
+.cid-qVJnjNegto .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.cid-qVJnjNegto a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-qVJnjNegto a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qVJnjNegto .mbr-subscribe .input-group-btn {
+  display: inline-block;
+}
+.cid-qVJnjNegto .mbr-subscribe .input-group-btn button,
+.cid-qVJnjNegto .mbr-subscribe .input-group-btn a {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+@media (max-width: 350px) {
+  .cid-qVJnjNegto .mbr-subscribe {
+    flex-direction: column;
+    -webkit-flex-direction: column;
+  }
+  .cid-qVJnjNegto input[type="email"] {
+    width: 100%;
+    margin-bottom: 2px;
+  }
+  .cid-qVJnjNegto .input-group-btn {
+    width: 100%;
+  }
+  .cid-qVJnjNegto .input-group-btn .btn {
+    border-radius: 3px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-qVJnjNegto .input-group-btn a.btn {
+    width: 100%;
+  }
+  .cid-qVJnjNegto .input-group-btn {
+    width: calc(92%);
+  }
+  .cid-qVJnjNegto .input-group-btn button[type="submit"] {
+    width: 100%;
+  }
+  .cid-qVJnjNegto .input-group {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 300px;
+  }
+  .cid-qVJnjNegto .input-group input[type="email"] {
+    width: 100%;
+    margin-bottom: 3px;
+  }
+  .cid-qVJnjNegto .input-group span {
+    display: inline;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .cid-qVJnjNegto .input-group-btn button,
+  .cid-qVJnjNegto .input-group-btn a {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+@media (min-width: 769px) {
+  .cid-qVJnjNegto .mbr-subscribe > * {
+    margin: 0 0.5rem;
+  }
+}
+.cid-qVJolxsx06 {
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
+}
 .cid-qUpvqf3iDu {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3576,6 +3678,44 @@ body {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
+}
+.cid-qVIjMvEtCE {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f9f9f9;
+  position: relative;
+}
+.cid-qVIjMvEtCE .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qVIjMvEtCE .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qVIjMvEtCE .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-qVIjMvEtCE .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qVIjMvEtCE .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-qVIjMvEtCE .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qVIjMvEtCE .card .panel-body {
+  color: #767676;
 }
 .cid-qTRTBgVq77 {
   padding-top: 30px;
