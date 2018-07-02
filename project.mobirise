@@ -34,7 +34,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 87,
+    "uniqCompNum": 90,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "siteUrl": "",
@@ -948,7 +948,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Stresser Gratis | VirtualBooter",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1425,7 +1425,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Stresser Premium | VirtualBooter",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1902,7 +1902,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Stresser Premium+ | VirtualBooter",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2379,7 +2379,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Server Info | VirtualBooter",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2922,7 +2922,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Shop | VirtualBooter",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3685,7 +3685,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Ticket | VirtualBooter",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4249,7 +4249,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Shop Fehler | VirtualBooter",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
